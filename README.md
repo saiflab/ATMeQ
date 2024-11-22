@@ -1,6 +1,6 @@
 # ATMeQ (ALS Identification Tool using Machine Learning and RNA-Seq) version 1.0
 <p align="center">
-<img src="![dalle](https://github.com/user-attachments/assets/cb8cd599-45c3-4083-a765-1128ee3755d1)" alt="ATMeQ" />
+<img src="https://github.com/user-attachments/assets/cb8cd599-45c3-4083-a765-1128ee3755d1" alt="ATMeQ" />
 </p>
 
 ## Introduction
