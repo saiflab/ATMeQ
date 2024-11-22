@@ -12,7 +12,11 @@ ATMeQ is a powerful yet easy-to-use tool with fast, precise insights, helping to
 
 
 ## Motivation
+Amyotrophic Lateral Sclerosis (ALS) is a devastating neurodegenerative disease characterized by progressive motor neuron degeneration, ultimately leading to loss of voluntary muscle control and premature mortality. Accurate and early diagnosis is paramount for facilitating timely therapeutic interventions and advancing research into effective treatment strategies.
 
+AITeQ is dedicated to revolutionizing the diagnostic landscape of ALS by leveraging cutting-edge computational methodologies. By integrating machine learning algorithms with high-throughput RNA-Seq data analysis, our approach seeks to identify a robust and distinctive gene signature associated with ALS pathophysiology.
+
+This integrative framework aims to empower clinicians and researchers with precise molecular insights, enabling early detection and enhancing understanding of the disease's complex molecular mechanisms. AITeQ strives to bridge the gap between bioinformatics innovations and clinical applications, driving progress toward improved diagnostic precision and patient outcomes 
 
 ## Features
 ### 1. Easy Integration 
