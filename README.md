@@ -26,20 +26,20 @@ This integrative framework aims to empower clinicians and researchers with preci
 ### 5. Lightweight
 
 
-## Usage Instructions for ATMeQ
+## Steps to Use AITeQ:
 
-ATMeQ can be run using the very simple 3 steps described below:
+ATMeQ can be run using the very simple 4 steps described below:
 
-**Step 1:**
-
-
-**Step 2:**
+**Step 1:** Launch the AITeQ application
 
 
-**Step 3:**
+**Step 2:** Select and upload the file you want to analyze
 
 
-**Step 4:** 
+**Step 3:** Make Predictions
+
+
+**Step 4:** View and Download the Results
 
 
 ## Contact
