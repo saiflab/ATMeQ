@@ -30,10 +30,10 @@ This integrative framework aims to empower clinicians and researchers with preci
 
 **ATMeQ can be run using the very simple 4 steps described below:**
 
-**Step 1:** Launch the ATMeQ application. [ATMeQ](https://colab.research.google.com/github/saiflab/ATMeQ/blob/main/ATMeQ.ipynb).
+**Step 1:** Launch the ATMeQ application. Here [ATMeQ](https://colab.research.google.com/github/saiflab/ATMeQ/blob/main/ATMeQ.ipynb).
 
 
-**Step 2:** Select and upload the VST file you want to analyze. [example file](https://github.com/saiflab/ATMeQ/blob/main/VST%20File%20(example).csv).
+**Step 2:** Select and upload the VST file you want to analyze. Here the [example file](https://github.com/saiflab/ATMeQ/blob/main/VST%20File%20(example).csv).
 
 
 **Step 3:** Make Predictions and View the result. 
