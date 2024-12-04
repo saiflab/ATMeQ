@@ -55,6 +55,6 @@ If you have any questions, feedback, or issues, please don't hesitate to contact
 
 This project is licensed under the GPL-3.0 license.
 
-## Working Project
+## Ongoing Project
 
 Ahmed Saif;  ATMeQ: A Machine Learning‑Based Framework for Amyotrophic Lateral Sclerosis Disease using RNA‑seq Meta-Analysis. 
