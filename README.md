@@ -19,11 +19,16 @@ ATMeQ is dedicated to revolutionizing the diagnostic landscape of ALS by leverag
 This integrative framework aims to empower clinicians and researchers with precise molecular insights, enabling early detection and enhancing understanding of the disease's complex molecular mechanisms. ATMeQ strives to bridge the gap between bioinformatics innovations and clinical applications, driving progress toward improved diagnostic precision and patient outcomes 
 
 ## Features
-### 1. Easy Integration 
-### 2. Machine Learning
+### 1. Easy Integration: 
+Simple to connect with other tools.
+### 2. Machine Learning:
+Applies data-driven methods to improve accuracy.
 ### 3. User-Friendly
+Designed for easy use by anyone.
 ### 4. Rapid Prediction 
+Provides fast and reliable outputs.
 ### 5. Lightweight
+Compact and efficient for smooth performance
 
 
 ## Steps to Use ATMeQ:
@@ -49,3 +54,7 @@ If you have any questions, feedback, or issues, please don't hesitate to contact
 ## License
 
 This project is licensed under the GPL-3.0 license.
+
+## Working Project
+
+Ahmed Saif;  ATMeQ: A Machine Learning‑Based Framework for Amyotrophic Lateral Sclerosis Disease using RNA‑seq Meta-Analysis. 
