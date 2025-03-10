@@ -4,7 +4,7 @@
 </p>
 
 ## Introduction
-Welcome to ATMeQ (ALS Identification Tool using Machine Learning and RNA-Seq), a state-of-the-art tool designed to predict Amyotrophic Lateral Sclerosis (ALS) with unmatched precision. By combining the power of machine learning with RNA-Seq data, ATMeQ provides accurate ALS predictions based on key gene expressions.
+Welcome to ATMeQ (ALS Prediction Tool using Machine Learning and RNA-Seq), a state-of-the-art tool designed to predict Amyotrophic Lateral Sclerosis (ALS) with unmatched precision. By combining the power of machine learning with RNA-Seq data, ATMeQ provides accurate ALS predictions based on key gene expressions.
 
 Simply upload a .csv file containing variance-stabilized transformation (VST) data from DESeq2, and ATMeQ will apply advanced algorithms to identify the most prominent genes associated with ALS, offering reliable results in a user-friendly format. 
 
