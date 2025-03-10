@@ -1,4 +1,4 @@
-# ATMeQ (ALS Identification Tool using Machine Learning and RNA-Seq) version 1.0
+# ATMeQ (ALS Prediction Tool using Machine Learning and RNA-Seq) version 1.0
 <p align="center">
 <img src="https://github.com/user-attachments/assets/40e3bb93-0e9d-4755-8cc4-8977797ede6b" alt="ATMeQ" />
 </p>
