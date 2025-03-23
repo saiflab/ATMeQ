@@ -35,7 +35,7 @@ Compact and efficient for smooth performance
 
 **ATMeQ can be run using the very simple 4 steps described below:**
 
-**Step 1:** Launch the ATMeQ application. Here [ATMeQ](https://als-prediction.streamlit.app/).
+**Step 1:** Launch the ATMeQ application. Here [ATMeQ](https://atmeq-ai.streamlit.app/).
 
 
 **Step 2:** Select and upload the VST file you want to analyze. Here the [example file](https://github.com/saiflab/ATMeQ/blob/main/VST%20File%20(example).csv).
